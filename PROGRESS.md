@@ -8,7 +8,7 @@
 
 | # | Milestone | Status | Test passing |
 |---|-----------|--------|--------------|
-| 1 | Boys function | done | yes (215) |
+| 1 | Boys function | done | yes (230) |
 | 2 | Basis set parser | not started | — |
 | 3 | Overlap matrix S | not started | — |
 | 4 | Kinetic and nuclear attraction matrices | not started | — |

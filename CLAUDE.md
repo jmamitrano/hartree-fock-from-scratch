@@ -1,8 +1,5 @@
 # CLAUDE.md
 
-> Local file. Not versioned — listed in .gitignore.
-> The public counterpart of these rules is docs/development.md.
-
 ## What this repository is
 
 A from-scratch implementation of Hartree-Fock (RHF and UHF) and MP2 with contracted
