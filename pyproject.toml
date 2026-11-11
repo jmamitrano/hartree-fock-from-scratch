@@ -5,6 +5,7 @@ description = "From-scratch implementation of Hartree-Fock and MP2 with Gaussian
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
+    "basis-set-exchange>=0.12",
     "numpy>=2.5.3",
     "pyscf>=2.14.0",
     "scipy>=1.18.1",
