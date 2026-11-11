@@ -73,7 +73,7 @@
 - 26-10-15 — `epsabs=0` in `quad`. `epsabs` acts as a floor: when the integral
   is smaller than that tolerance, `quad` stops refining and the relative error
   explodes (1.9e-04 at x=500, n=8 with `epsabs=1e-15`). With `epsabs=0` and
-  `epsrel=1.5e-14` (the tightest scipy accepts when `epsabs=0`, bounded by
+  `epsrel=1.5e-13` (the tightest scipy accepts when `epsabs=0`, bounded by
   50*eps) accuracy holds down to F_n ≈ 1e-36.
 
 - 26-10-15 — Property tests with no oracle: array length, positivity, and

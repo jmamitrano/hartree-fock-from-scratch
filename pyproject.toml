@@ -7,12 +7,12 @@ requires-python = ">=3.14"
 dependencies = [
     "basis-set-exchange>=0.12",
     "numpy>=2.5.3",
-    "pyscf>=2.14.0",
     "scipy>=1.18.1",
 ]
 
 [dependency-groups]
 dev = [
+    "pyscf>=2.15.0",
     "pytest>=9.1.1",
     "ruff>=0.16.6",
 ]
